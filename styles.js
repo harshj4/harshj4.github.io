@@ -844,6 +844,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+
 __webpack_require__(/*! D:\portfolio\portfolio\node_modules\@fortawesome\fontawesome-free\scss\fontawesome.scss */"./node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss");
 __webpack_require__(/*! D:\portfolio\portfolio\node_modules\@fortawesome\fontawesome-free\scss\solid.scss */"./node_modules/@fortawesome/fontawesome-free/scss/solid.scss");
 __webpack_require__(/*! D:\portfolio\portfolio\node_modules\@fortawesome\fontawesome-free\scss\regular.scss */"./node_modules/@fortawesome/fontawesome-free/scss/regular.scss");
@@ -852,6 +853,7 @@ __webpack_require__(/*! D:\portfolio\portfolio\node_modules\angular-bootstrap-md
 __webpack_require__(/*! D:\portfolio\portfolio\node_modules\angular-bootstrap-md\assets\scss\mdb.scss */"./node_modules/angular-bootstrap-md/assets/scss/mdb.scss");
 __webpack_require__(/*! D:\portfolio\portfolio\node_modules\animate.css\animate.css */"./node_modules/animate.css/animate.css");
 module.exports = __webpack_require__(/*! D:\portfolio\portfolio\src\styles.css */"./src/styles.css");
+
 
 
 /***/ })
